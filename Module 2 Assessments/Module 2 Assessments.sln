@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 3 Question 3", "Module 2 Assessments\Chapter 3 Question 3.csproj", "{3BB8C7C6-E0CB-4C63-BA45-EC13DE00708E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 3 Quesion 5", "Chapter 3 Quesion 5\Chapter 3 Quesion 5.csproj", "{471775ED-7E5A-4FE1-B955-8F084A29D7B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 3 Quesion 7", "Chapter 3 Quesion 5\Chapter 3 Quesion 7.csproj", "{471775ED-7E5A-4FE1-B955-8F084A29D7B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
